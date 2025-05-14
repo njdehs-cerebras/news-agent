@@ -24,6 +24,7 @@ Apple has once again made waves with the second-generation Vision Pro headset [1
 [1] Apple reveals Vision Pro 2 — TechCrunch (2025-05-05T09:30:00Z) — https://...
 [2] ...
 ⏱  Completed in 3.2 seconds
+```
 
 ## QuickStart
 
